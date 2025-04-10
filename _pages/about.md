@@ -1,11 +1,11 @@
 ---
- permalink: /
- title: "Zeyang Liu's Homepage"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+permalink: /
+title: "Zeyang Liu's Homepage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
  
 # About
 
