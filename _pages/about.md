@@ -13,7 +13,7 @@ My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor a
 
 My research interests include Information Retrieval, Natural Language Processing and Applied Machine Learning. I am particularly interested in Information Retrieval-augmented Generation (RAG) technologies and the evaluation of large language models, with an emphasis on exploring how external knowledge bases can effectively reduce the hallucinations of these models. Recently, I have also expanded my exploration to include the field of multimodal retrieval-augmented generation technologies. Beyond my academic pursuits, I also served as a reviewer and PC member for SIGIR, WSDM, WSDM、CIKM、WWW、KDD、MM and CCIR.
 
-I am seeking cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this [email](mailto:zeyangliu@sdu.edu.cn).
+I am looking for cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this [email](mailto:zeyangliu@sdu.edu.cn).
 
 # Education
 - Ph.D. in Computer Science, University of Nottingham, UK, 2019-2024
@@ -25,7 +25,7 @@ I am seeking cooperation opportunities. If my experience or research interests y
 - Lecturer, Department of Computer Technology and Application, Qinghai University, 2016-2018
 
 # Publications
-- **Zeyang Liu**, Ke Zhou and Max L Wilson. Meta-evaluation of conversational search evaluation metrics.ACM Transactions on Information Systems (TOIS).
+- **Zeyang Liu**, Ke Zhou and Max L Wilson. Meta-evaluation of conversational search evaluation metrics. ACM Transactions on Information Systems (TOIS).
 - **Zeyang Liu**, Ke Zhou, Jiaxin Mao and Max L Wilson. POSSCORE: A simple yet effective evaluation of conversational search with part of speech labelling. Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM 2021).
 - **Zeyang Liu**, Jiaxin Mao, Chao Wang, Qingyao Ai, Yiqun Liu and Jian-Yun Nie. Enhancing click models with mouse movement information. Information Retrieval Journal (IRJ).
 - Yiqun Liu, **Zeyang Liu**, Ke Zhou, Meng Wang, Huanbo Luan, Chao Wang, Min Zhang and Shaoping Ma. Predicting search user examination with visual saliency. Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR 2016).
