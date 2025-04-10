@@ -9,9 +9,9 @@ redirect_from:
  
 # About
 
-My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor at the School of Artificial Intelligence, Shandong University (SDU). Before that, I recieved my Ph.D. degree from the School of Computer Science at University of Nottingham (UK) , and my M.S. degree from the Department of Computer Science and Technology at Tsinghua University under the supervision of [Prof. Yiqun Liu] (http://www.thuir.cn/group/~YQLiu/).
+My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor at the School of Artificial Intelligence, Shandong University (SDU). Before that, I received my Ph.D. degree from the School of Computer Science at the University of Nottingham (UK) and my M.S. degree from the Department of Computer Science and Technology at Tsinghua University under the supervision of [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
 
-My research interests include Information Retrieval, Natural Language Processing and Applied Machine Learning. I am particularly interested in Information Retrieval-augmented Generation (RAG) technologies and the evaluation of large language model, with an emphasis on exploring how external knowledge bases can effectively reduce the hallucinations of these models. Recently, I have also expanded my exploration to include the field of multimodal retrieval-augmented generation technologies. Beyond my academic pursuits, I also served as a reviewer and PC member for SIGIR, WSDM, WSDM、CIKM、WWW、KDD、MM and CCIR.
+My research interests include Information Retrieval, Natural Language Processing and Applied Machine Learning. I am particularly interested in Information Retrieval-augmented Generation (RAG) technologies and the evaluation of large language models, with an emphasis on exploring how external knowledge bases can effectively reduce the hallucinations of these models. Recently, I have also expanded my exploration to include the field of multimodal retrieval-augmented generation technologies. Beyond my academic pursuits, I also served as a reviewer and PC member for SIGIR, WSDM, WSDM、CIKM、WWW、KDD、MM and CCIR.
 
 I am seeking cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this [email](mailto:zeyangliu@sdu.edu.cn).
 
@@ -21,7 +21,7 @@ I am seeking cooperation opportunities. If my experience or research interests y
 - B.S. in Computer Science and Technology, Qinghai University, Qinghai, China, 2008-2012
 
 # Experience
-- Assistant Professor, School of Artificial Intelligence, Shandong University, 2024-present
+- Assistant Professor, School of Artificial Intelligence, Shandong University, 2024- present
 - Lecturer, Department of Computer Technology and Application, Qinghai University, 2016-2018
 
 # Publications
