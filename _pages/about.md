@@ -16,13 +16,13 @@ My research interests include Information Retrieval, Natural Language Processing
 I am looking for cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this [email](mailto:zeyangliu@sdu.edu.cn).
 
 # Education
-- Ph.D. in Computer Science, University of Nottingham, UK, 2019-2024
-- M.S. in Computer Science and Technology, Tsinghua University, Beijing, China, 2013-2016
-- B.S. in Computer Science and Technology, Qinghai University, Qinghai, China, 2008-2012
+- 2019-2024, Ph.D. in Computer Science, University of Nottingham, UK
+- 2013-2016, M.S. in Computer Science and Technology, Tsinghua University, Beijing, China
+- 2008-2012, B.S. in Computer Science and Technology, Qinghai University, Qinghai, China
 
 # Experience
-- Assistant Professor, School of Artificial Intelligence, Shandong University, 2024- present
-- Lecturer, Department of Computer Technology and Application, Qinghai University, 2016-2018
+- 2024-present, Assistant Professor, School of Artificial Intelligence, Shandong University
+- 2016-2018, Lecturer, Department of Computer Technology and Application, Qinghai University
 
 # Publications
 - **Zeyang Liu**, Ke Zhou and Max L Wilson. Meta-evaluation of conversational search evaluation metrics. ACM Transactions on Information Systems (TOIS).
