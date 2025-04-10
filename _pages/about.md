@@ -1,4 +1,12 @@
-
+---
+ permalink: /
+ title: "Zeyang Liu's Homepage"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
+ 
 # About
 
 My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor at the School of Artificial Intelligence, Shandong University (SDU). Before that, I recieved my Ph.D. degree from the School of Computer Science at University of Nottingham (UK) , and my M.S. degree from the Department of Computer Science and Technology at Tsinghua University under the supervision of [Prof. Yiqun Liu] (http://www.thuir.cn/group/~YQLiu/).
