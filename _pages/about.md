@@ -13,7 +13,7 @@ My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor a
 
 My research interests include **Information Retrieval**, **Natural Language Processing** and **Applied Machine Learning**. I am particularly interested in Information Retrieval-augmented Generation (RAG) technologies and the evaluation of large language models, with an emphasis on exploring how external knowledge bases can effectively reduce the hallucinations of these models. Recently, I have also expanded my exploration to include the field of multimodal retrieval-augmented generation technologies. Beyond my academic pursuits, I also served as a reviewer and PC member for SIGIR, WSDM, WSDM、CIKM、WWW、KDD、MM and CCIR.
 
-I am looking for cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this email [zeyangliu [at] sdu [dot] edu [dot] cn](mailto:zeyangliu@sdu.edu.cn).
+I am looking for cooperation opportunities. If my experience or research interests you, please do not hesitate to contact me via this email ([zeyangliu [at] sdu [dot] edu [dot] cn](mailto:zeyangliu@sdu.edu.cn)).
 
 ## Education
 
