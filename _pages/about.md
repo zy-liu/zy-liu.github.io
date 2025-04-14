@@ -36,6 +36,3 @@ I am looking for cooperation opportunities. If my experience or research interes
 - Yiqun Liu, **Zeyang Liu**, Ke Zhou, Meng Wang, Huanbo Luan, Chao Wang, Min Zhang and Shaoping Ma. Predicting search user examination with visual saliency. Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval (SIGIR 2016).
 - **Zeyang Liu**, Yiqun Liu, Ke Zhou, Min Zhang and Shaoping Ma. Influence of vertical result in web search examination. Proceedings of the 38th international acm sigir conference on research and development in information retrieval (SIGIR 2015).
 - **Zeyang Liu**, Yiqun Liu, Min Zhang and Shaoping Ma. Information Retrieval Technology: 10th Asia Information Retrieval Societies Conference (AIRS 2014).
-
-</br>
-<div style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=zy-liu&color=blue&&style=for-the-badge&&abbreviated=true&label=views" /)</div>
