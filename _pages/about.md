@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 ## About me
 
 My name is Zeyang Liu (刘泽阳, in Chinese). I am now an Assistant Professor at the [School of Artificial Intelligence, Shandong University (SDU)](https://www.ai.sdu.edu.cn/). Before that, I received my Ph.D. degree from the School of Computer Science at the University of Nottingham (UK) and my M.S. degree from the Department of Computer Science and Technology at Tsinghua University under the supervision of [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/).
@@ -36,4 +38,4 @@ I am looking for cooperation opportunities. If my experience or research interes
 - **Zeyang Liu**, Yiqun Liu, Min Zhang and Shaoping Ma. Information Retrieval Technology: 10th Asia Information Retrieval Societies Conference (AIRS 2014).
 
 ---
-![](https://komarev.com/ghpvc/?username=zy-liu&color=green)
+<div align='center'><img src="https://komarev.com/ghpvc/?username=zy-liu&color=blue&&style=for-the-badge&&abbreviated=true&label=views")</img></div>
