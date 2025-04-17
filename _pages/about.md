@@ -30,6 +30,7 @@ I am looking for cooperation opportunities. If my experience or research interes
 
 # Publications
 
+- Haitao Li, Yifan Chen, Yiran Hu, Qingyao Ai, Junjie Chen, Xiaoyu Yang, Jianhui Yang, Yueyue Wu#, **Zeyang Liu#**, Yiqun Liu. LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation. The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)
 - **Zeyang Liu**, Ke Zhou and Max L Wilson. Meta-evaluation of conversational search evaluation metrics. ACM Transactions on Information Systems (TOIS).
 - **Zeyang Liu**, Ke Zhou, Jiaxin Mao and Max L Wilson. POSSCORE: A simple yet effective evaluation of conversational search with part of speech labelling. Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM 2021).
 - **Zeyang Liu**, Jiaxin Mao, Chao Wang, Qingyao Ai, Yiqun Liu and Jian-Yun Nie. Enhancing click models with mouse movement information. Information Retrieval Journal (IRJ).
